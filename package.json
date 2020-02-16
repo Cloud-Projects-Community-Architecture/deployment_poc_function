@@ -1,0 +1,10 @@
+{
+  "name": "getHelmConfig",
+  "version": "0.1.0",
+  "main": "getHelmConfig.js",
+  "dependencies": {
+    "request-promise": "*",
+    "nunjucks": "*",
+    "request": "*"
+  }
+}
